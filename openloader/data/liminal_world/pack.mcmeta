@@ -1,0 +1,6 @@
+{
+  "pack": {
+    "description": "Генерация мира для сборки Liminality",
+    "pack_format": 15
+  }
+}
